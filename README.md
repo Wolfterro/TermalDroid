@@ -7,7 +7,7 @@
 
 ###### Para converter os valores desejados, basta inserir o valor da temperatura no campo designado, selecionar a escala termométrica de origem (De) e de destino (Para) e clicar no botão CALCULAR.
 
-###### Ao pressionar o botão, o campo de resultado da janela do aplicativo será atualizada com o valor desejado.
+###### Ao pressionar o botão, o campo de resultados na janela do aplicativo será atualizada com o valor desejado para a escala termométrica de destino.
 
 ###### Veja um exemplo na imagem abaixo:
 
@@ -16,6 +16,9 @@
 ### Idiomas Disponíveis:
  - Português Brasileiro (Padrão)
  - Inglês
+ 
+### Permissões Necessárias:
+ - O aplicativo não necessita de qualquer permissão
 
 ### Download:
 
