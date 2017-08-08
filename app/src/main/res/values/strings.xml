@@ -1,0 +1,39 @@
+<resources>
+    <!-- ======== Do not translate! Não traduzir! ======== -->
+    <string name="app_name" translatable="false">TermalDroid</string>
+    <string name="app_version" translatable="false">1.0</string>
+    <string name="termalDroidRepo" translatable="false">https://github.com/Wolfterro/TermalDroid</string>
+    <!-- ================================================== -->
+
+    <string name="temperatureValor">Valor da temperatura:</string>
+    <string name="example">Exemplo: 40 ou 98.5</string>
+
+    <string name="from">De:</string>
+    <string name="to">Para:</string>
+
+    <string name="result">Resultado:</string>
+
+    <!-- ======== Do not translate! Não traduzir! ======== -->
+    <string name="zero" translatable="false">0.0 ºC</string>
+
+    <string name="celsius" translatable="false">Celsius</string>
+    <string name="fahrenheit" translatable="false">Fahrenheit</string>
+    <string name="kelvin" translatable="false">Kelvin</string>
+
+    <string name="degreeCelsius" translatable="false">ºC</string>
+    <string name="degreeFahrenheit" translatable="false">ºF</string>
+    <string name="degreeKelvin" translatable="false">K</string>
+    <!-- ================================================== -->
+
+    <string name="calculate">Calcular</string>
+
+    <string name="pleaseInsertValue">Por favor, insira o valor da temperatura e tente novamente!</string>
+    <string name="errorCouldNotGetResults">Erro! Não foi possível obter resultados!</string>
+    <string name="error">Erro:</string>
+
+    <string name="about">Sobre</string>
+    <string name="aboutTermalDroid">Sobre TermalDroid</string>
+    <string name="aboutText">TermalDroid é um simples aplicativo que possui a função de converter o valor da
+        temperatura para diferentes escalas termométricas, como as escalas Celsius, Fahrenheit e Kelvin.</string>
+    <string name="aboutLicensed">Este aplicativo foi disponibilizado sob os termos da Licença MIT.</string>
+</resources>

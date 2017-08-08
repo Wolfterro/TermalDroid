@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="temperatureValor">Temperature value:</string>
+    <string name="example">Example: 40 or 98.5</string>
+
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+
+    <string name="result">Result:</string>
+
+    <string name="calculate">Calculate</string>
+
+    <string name="pleaseInsertValue">Please, insert the temperature\'s value and try again!</string>
+    <string name="errorCouldNotGetResults">Error! Could not get the result!</string>
+    <string name="error">Error:</string>
+
+    <string name="about">About</string>
+    <string name="aboutTermalDroid">About TermalDroid</string>
+    <string name="aboutText">TermalDroid is a simple app that it\'s main function is to convert the
+        temperature value to different scales of temperatures, like the Celsius, Fahrenheit and Kelvin scales.</string>
+    <string name="aboutLicensed">This app was released under the terms of the MIT License.</string>
+</resources>
